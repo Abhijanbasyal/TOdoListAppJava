@@ -1,0 +1,7 @@
+# Ignore compiled files and folders
+/bin/
+*.class
+
+# Ignore IDE settings
+.vscode/
+*.log
